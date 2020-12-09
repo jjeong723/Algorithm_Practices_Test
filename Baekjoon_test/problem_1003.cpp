@@ -11,8 +11,10 @@
 */
 
 /*
-C++ Vector class를 사용하여 실행함.
-Vector가 array보다 빠른듯함.
+global array에 대한 데이터 저장을 활용하고자했음.
+ array는 실패함.
+ C++ Vector class활용시 성공함.
+ Vector가 array보다 빠른듯함.
 */
 
 #include <iostream>
