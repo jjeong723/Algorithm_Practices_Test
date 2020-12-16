@@ -18,3 +18,7 @@
     * **Success** : Vector class를 활용함
   * Baekjoon number 10818 : https://www.acmicpc.net/problem/10818
   * Baekjoon number 2562 : https://www.acmicpc.net/problem/2562
+* *16일*
+  * Baekjoon number 2577 : https://www.acmicpc.net/problem/2577
+  * Baekjoon number 3052 : https://www.acmicpc.net/problem/3052
+    * 답은 맞췄지만, 더 간단한 방법이 있기에 기입함.
