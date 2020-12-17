@@ -22,3 +22,7 @@
   * Baekjoon number 2577 : https://www.acmicpc.net/problem/2577
   * Baekjoon number 3052 : https://www.acmicpc.net/problem/3052
     * 답은 맞췄지만, 더 간단한 방법이 있기에 기입함.
+* *17일* : 백준 1차원 배열(단계별 문제) **CLEAR**
+  * Baekjoon number 1546 : https://www.acmicpc.net/problem/1546
+  * Baekjoon number 4344 : https://www.acmicpc.net/problem/4344
+  * Baekjoon number 8958 : https://www.acmicpc.net/problem/8958
