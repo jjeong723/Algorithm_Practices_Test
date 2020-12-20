@@ -26,3 +26,7 @@
   * Baekjoon number 1546 : https://www.acmicpc.net/problem/1546
   * Baekjoon number 4344 : https://www.acmicpc.net/problem/4344
   * Baekjoon number 8958 : https://www.acmicpc.net/problem/8958
+* *20일*
+  * Baekjoon number 15596 : https://www.acmicpc.net/problem/15596
+  * Baekjoon number 4673 : https://www.acmicpc.net/problem/4673
+    * *쉽게 안풀릴거같으면 무식한 방법을 쓰는 것도 좋은 방법이다.*
