@@ -5,6 +5,12 @@
   * Baekjoon Online Judge : https://www.acmicpc.net/  
   * [***Baekjoon Test Folder***](./Baekjoon_test)
 
+## CS Courses
+* **Codeit**
+  * Codeit : https://www.codeit.kr/
+  * Paid Content
+  * [***Codeit Folder***](./Codeit_Code)
+
 ## **2020년**
 ### 12월
 * *07일*  
@@ -30,3 +36,5 @@
   * Baekjoon number 15596 : https://www.acmicpc.net/problem/15596
   * Baekjoon number 4673 : https://www.acmicpc.net/problem/4673
     * *쉽게 안풀릴거같으면 무식한 방법을 쓰는 것도 좋은 방법이다.*
+* *22일*
+  * Codeit Algorithm Course : Topic3 Complete.
