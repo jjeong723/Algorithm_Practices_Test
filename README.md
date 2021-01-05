@@ -38,3 +38,9 @@
     * *쉽게 안풀릴거같으면 무식한 방법을 쓰는 것도 좋은 방법이다.*
 * *22일*
   * Codeit Algorithm Course : Topic3 Complete.
+
+## **2021년**
+### 1월
+* *05일*
+  * Baekjoon number 1065 : https://www.acmicpc.net/problem/1065
+    * *복잡하게 생각하다가는 잘 풀리지 않는다.*
