@@ -1,6 +1,6 @@
 CC=g++
 #CFLAGS=  #컴파일 옵션
-INPUT_CODE=problem_1000.cpp
+INPUT_CODE=test.cpp
 #FUNC1_CODE=function_obj1.cpp
 #FUNC2_CODE=function_obj2.cpp
 
